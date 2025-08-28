@@ -3,4 +3,5 @@ Daniel Sergent
 COP3330C-33777
 
 An app that allows you to read and modify an sqlite database
-This app uses Java and SQLite 
+This app uses Java and SQLite.
+My examples used were to print the database, delete rows, execute queries, update values, use tables, and display what actions were taken.
